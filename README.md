@@ -1,1 +1,1 @@
-This will my the projects from GRC Engineering coursework.
+This will be the projects from  my GRC Engineering coursework.
